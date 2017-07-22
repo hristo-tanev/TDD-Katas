@@ -1,0 +1,18 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tdd",
+    "kata"
+  ],
+  "author": "Hristo Tanev",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
